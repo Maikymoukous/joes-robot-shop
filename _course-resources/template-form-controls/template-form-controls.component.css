@@ -25,11 +25,14 @@
   font-size: 18px;
 }
 
+<<<<<<< HEAD
 .control select {
   padding: 15px;
   font-size: 18px;
 }
 
+=======
+>>>>>>> 37db97e (Add forms resources)
 .control input {
   display: inline-block;
 }
